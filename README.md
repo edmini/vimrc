@@ -17,16 +17,16 @@ ctrl + u, i, w (왼쪽 탭, 오른쪽 탭, 탭 닫기)
 ### NERDTree
 ctrl + t (NerdTree 토글)
 
+### leader 설정 : 스페이스바 이후 leader 는 스페이스바를 의미함
+let mapleader = " "
+
 ### Telescope
-#### leader 설정 : 스페이스바 키
 leader + ff
 
 ### vim term
-#### leader 설정 : 스페이스바 키
 leader + tt
 
 ### autoformat
-#### leader 설정 : 스페이스바 키
 leader + aa
 
 ### tagbar
