@@ -33,6 +33,7 @@ F8
 
 ## CocInstall list
 https://github.com/neoclide/coc.nvim/wiki/Language-servers#supported-features
+
 coc-sh, coc-clangd (clangd 설치 필요), coc-cmake, coc-css, coc-html, coc-tsserver, coc-json, coc-markdownlint, coc-python, coc-vetur
 
 
