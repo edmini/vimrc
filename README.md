@@ -1,4 +1,5 @@
-# vimrc
+## oh my zsh
+https://ohmyz.sh/
 
 ## neovim 설치
 https://neovim.io/
